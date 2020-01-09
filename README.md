@@ -20,6 +20,7 @@ https://br.spoj.com/problems/DAMA/
 O jogo de xadrez possui várias peças com movimentos curiosos: uma delas é a dama, que pode se mover qualquer quantidade de casas na mesma linha, na mesma coluna, ou em uma das duas diagonais, conforme exemplifica a figura abaixo:
 
 <img src="https://www.spoj.com/content/wanderley:dama.png" data-canonical-src="https://www.spoj.com/content/wanderley:dama.png" width="230" height="230" />
+Imagem: https://www.spoj.com/content/wanderley:dama.png
 
 O grande mestre de xadrez *Kary Gasparov* inventou um novo tipo de problema de xadrez: dada a posição de uma dama em um tabuleiro de xadrez vazio (ou seja, um tabuleiro 8 × 8, com 64 casas), de quantos movimentos, no mínimo, ela precisa para chegar em outra casa do tabuleiro?
 
